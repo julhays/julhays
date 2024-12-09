@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Jules
+
+- 🧬 I’m currently a bioinformatics master's candidate at the University of Oregon the Knight Campus Graduate Internship Program.
+- 🖥️ I have learned how to code in Python, R, C++, Java, SQL, and HTML.
+- 🧠 I’m currently learning how to apply machine learning to epidemiology research.
+
+Check out some of the projects that I have been working on!
+
+
 
 <!--
 **julhays/julhays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
