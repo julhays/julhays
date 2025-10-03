@@ -1,10 +1,14 @@
 ## Hi, I'm Jules
 
-- 🧬 I’m currently a bioinformatics master's candidate at the University of Oregon the Knight Campus Graduate Internship Program.
-- 🖥️ I have learned how to code in Python, R, C++, Java, SQL, and HTML.
+I'm a computational biologist developing machine learning methods to better understand 3D chromatin stucture.
+
+- 🔬 Computational biology intern at the Knight Cancer Instutite within OHSU
+- 🧬 Bioinformatics master's candidate at the University of Oregon's Knight Campus Graduate Internship Program.
+- 🖥️ Python, R, Bash, C++, Java, and SQL.
 - 🧠 I’m currently learning how to apply machine learning to epidemiology research.
 
 Check out some of the projects that I have been working on!
+
 
 
 
