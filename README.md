@@ -5,7 +5,7 @@ I'm a computational biologist developing machine learning methods to better unde
 - 🔬 Computational biology intern at the Knight Cancer Instutite within OHSU
 - 🧬 Bioinformatics master's candidate at the University of Oregon's Knight Campus Graduate Internship Program.
 - 🖥️ Python, R, Bash, C++, Java, and SQL.
-- 🧠 I’m currently learning how to apply machine learning to epidemiology research.
+- 🧠 I’m currently learning how to apply machine learning to cancer research.
 
 Check out some of the projects that I have been working on!
 
